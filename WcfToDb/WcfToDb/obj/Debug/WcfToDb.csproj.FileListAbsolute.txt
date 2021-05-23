@@ -1,0 +1,41 @@
+C:\Users\Дмитрий\Desktop\WcfToDb\WcfToDb\bin\Debug\WcfToDb.dll.config
+C:\Users\Дмитрий\Desktop\WcfToDb\WcfToDb\bin\Debug\WcfToDb.dll
+C:\Users\Дмитрий\Desktop\WcfToDb\WcfToDb\bin\Debug\WcfToDb.pdb
+C:\Users\Дмитрий\Desktop\WcfToDb\WcfToDb\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Дмитрий\Desktop\WcfToDb\WcfToDb\bin\Debug\Oracle.Web.dll
+C:\Users\Дмитрий\Desktop\WcfToDb\WcfToDb\bin\Debug\System_Data_OracleClient.dll
+C:\Users\Дмитрий\Desktop\WcfToDb\WcfToDb\obj\Debug\WcfToDb.dll
+C:\Users\Дмитрий\Desktop\WcfToDb\WcfToDb\obj\Debug\WcfToDb.pdb
+C:\Users\Дмитрий\Desktop\WcfToDb\WcfToDb\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Дмитрий\Desktop\WcfToDb\WcfToDb\bin\Debug\System.ServiceModel.Http.dll
+C:\Users\Дмитрий\Desktop\WcfToDb\WcfToDb\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Дмитрий\Desktop\WcfToDb\WcfToDb\bin\Debug\System.ServiceModel.Http.pdb
+C:\Users\Дмитрий\Desktop\WcfToDb\WcfToDb\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\Дмитрий\Desktop\WcfToDb\WcfToDb\obj\Debug\WcfToDb.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\WcfToDb\WcfToDb\obj\Debug\WcfToDb.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\WcfToDb\WcfToDb\obj\Debug\WcfToDb.csproj.CopyComplete
+C:\Users\Дмитрий\Desktop\WcfToDb — копия\WcfToDb\bin\Debug\WcfToDb.dll.config
+C:\Users\Дмитрий\Desktop\WcfToDb — копия\WcfToDb\bin\Debug\WcfToDb.dll
+C:\Users\Дмитрий\Desktop\WcfToDb — копия\WcfToDb\bin\Debug\WcfToDb.pdb
+C:\Users\Дмитрий\Desktop\WcfToDb — копия\WcfToDb\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Дмитрий\Desktop\WcfToDb — копия\WcfToDb\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Дмитрий\Desktop\WcfToDb — копия\WcfToDb\bin\Debug\Oracle.Web.dll
+C:\Users\Дмитрий\Desktop\WcfToDb — копия\WcfToDb\bin\Debug\System.ServiceModel.Http.dll
+C:\Users\Дмитрий\Desktop\WcfToDb — копия\WcfToDb\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Дмитрий\Desktop\WcfToDb — копия\WcfToDb\bin\Debug\System_Data_OracleClient.dll
+C:\Users\Дмитрий\Desktop\WcfToDb — копия\WcfToDb\bin\Debug\System.ServiceModel.Http.pdb
+C:\Users\Дмитрий\Desktop\WcfToDb — копия\WcfToDb\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\Дмитрий\Desktop\WcfToDb — копия\WcfToDb\obj\Debug\WcfToDb.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\WcfToDb — копия\WcfToDb\obj\Debug\WcfToDb.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\WcfToDb — копия\WcfToDb\obj\Debug\WcfToDb.csproj.CopyComplete
+C:\Users\Дмитрий\Desktop\WcfToDb — копия\WcfToDb\obj\Debug\WcfToDb.dll
+C:\Users\Дмитрий\Desktop\WcfToDb — копия\WcfToDb\obj\Debug\WcfToDb.pdb
+C:\Users\Дмитрий\Desktop\task\WcfToDb\WcfToDb\bin\Debug\WcfToDb.dll.config
+C:\Users\Дмитрий\Desktop\task\WcfToDb\WcfToDb\bin\Debug\WcfToDb.dll
+C:\Users\Дмитрий\Desktop\task\WcfToDb\WcfToDb\bin\Debug\WcfToDb.pdb
+C:\Users\Дмитрий\Desktop\task\WcfToDb\WcfToDb\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Дмитрий\Desktop\task\WcfToDb\WcfToDb\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Дмитрий\Desktop\task\WcfToDb\WcfToDb\bin\Debug\Oracle.Web.dll
+C:\Users\Дмитрий\Desktop\task\WcfToDb\WcfToDb\obj\Debug\WcfToDb.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\task\WcfToDb\WcfToDb\obj\Debug\WcfToDb.dll
+C:\Users\Дмитрий\Desktop\task\WcfToDb\WcfToDb\obj\Debug\WcfToDb.pdb

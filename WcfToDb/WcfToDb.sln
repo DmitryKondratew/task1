@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfToDb", "WcfToDb\WcfToDb.csproj", "{EE1A0A2E-3618-43E8-967A-944C20203CDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsAppWcfDb", "WindowsFormsAppWcfDb\WindowsFormsAppWcfDb.csproj", "{23F0F5FD-5B46-4270-8474-C302CB63D53B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{EE1A0A2E-3618-43E8-967A-944C20203CDC} = {EE1A0A2E-3618-43E8-967A-944C20203CDC}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE1A0A2E-3618-43E8-967A-944C20203CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE1A0A2E-3618-43E8-967A-944C20203CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE1A0A2E-3618-43E8-967A-944C20203CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE1A0A2E-3618-43E8-967A-944C20203CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23F0F5FD-5B46-4270-8474-C302CB63D53B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23F0F5FD-5B46-4270-8474-C302CB63D53B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23F0F5FD-5B46-4270-8474-C302CB63D53B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23F0F5FD-5B46-4270-8474-C302CB63D53B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEEAD82C-FEE2-4A05-A29B-1904260DD2A8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+C:\Users\Дмитрий\Desktop\WcfToDb\WindowsFormsAppWcfDb\bin\Debug\WindowsFormsAppWcfDb.exe.config
+C:\Users\Дмитрий\Desktop\WcfToDb\WindowsFormsAppWcfDb\bin\Debug\WindowsFormsAppWcfDb.exe
+C:\Users\Дмитрий\Desktop\WcfToDb\WindowsFormsAppWcfDb\bin\Debug\WindowsFormsAppWcfDb.pdb
+C:\Users\Дмитрий\Desktop\WcfToDb\WindowsFormsAppWcfDb\obj\Debug\WindowsFormsAppWcfDb.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\WcfToDb\WindowsFormsAppWcfDb\obj\Debug\WindowsFormsAppWcfDb.Form1.resources
+C:\Users\Дмитрий\Desktop\WcfToDb\WindowsFormsAppWcfDb\obj\Debug\WindowsFormsAppWcfDb.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\WcfToDb\WindowsFormsAppWcfDb\obj\Debug\WindowsFormsAppWcfDb.csproj.GenerateResource.cache
+C:\Users\Дмитрий\Desktop\WcfToDb\WindowsFormsAppWcfDb\obj\Debug\WindowsFormsAppWcfDb.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\WcfToDb\WindowsFormsAppWcfDb\obj\Debug\WindowsFormsAppWcfDb.exe
+C:\Users\Дмитрий\Desktop\WcfToDb\WindowsFormsAppWcfDb\obj\Debug\WindowsFormsAppWcfDb.pdb
+C:\Users\Дмитрий\Desktop\WcfToDb — копия\WindowsFormsAppWcfDb\obj\Debug\WindowsFormsAppWcfDb.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\WcfToDb — копия\WindowsFormsAppWcfDb\obj\Debug\WindowsFormsAppWcfDb.Form1.resources
+C:\Users\Дмитрий\Desktop\WcfToDb — копия\WindowsFormsAppWcfDb\obj\Debug\WindowsFormsAppWcfDb.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\WcfToDb — копия\WindowsFormsAppWcfDb\obj\Debug\WindowsFormsAppWcfDb.csproj.GenerateResource.cache
+C:\Users\Дмитрий\Desktop\WcfToDb — копия\WindowsFormsAppWcfDb\obj\Debug\WindowsFormsAppWcfDb.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\WcfToDb — копия\WindowsFormsAppWcfDb\obj\Debug\WindowsFormsAppWcfDb.exe
+C:\Users\Дмитрий\Desktop\WcfToDb — копия\WindowsFormsAppWcfDb\obj\Debug\WindowsFormsAppWcfDb.pdb
+C:\Users\Дмитрий\Desktop\WcfToDb — копия\WindowsFormsAppWcfDb\bin\Debug\WindowsFormsAppWcfDb.exe.config
+C:\Users\Дмитрий\Desktop\WcfToDb — копия\WindowsFormsAppWcfDb\bin\Debug\WindowsFormsAppWcfDb.exe
+C:\Users\Дмитрий\Desktop\WcfToDb — копия\WindowsFormsAppWcfDb\bin\Debug\WindowsFormsAppWcfDb.pdb
